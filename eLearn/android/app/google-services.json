@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876432354980",
+    "project_id": "kinjalflutter",
+    "storage_bucket": "kinjalflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876432354980:android:c230a59ecdcd8a399c0031",
+        "android_client_info": {
+          "package_name": "com.example.learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBZzgAqIOuK2T9tNOPLAk5knm_Xf9H5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
