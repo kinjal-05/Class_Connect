@@ -1,8 +1,6 @@
 __Class_Conect__
 
--This is a Flutter-based application designed for teachers to create lessons in the form of PDFs and videos and track student enrollment. 
--Students can browse available lessons, view them, and enroll. 
--The app also provides a dashboard to manage lessons and view the number of students enrolled.
+-This is a Flutter-based application designed for teachers to create lessons in the form of PDFs and videos and track student enrollment.Students can browse available lessons, view them, and enroll.The app also provides a dashboard to manage lessons and view the number of students enrolled.
 
 - __Teacher features__:
   - Upload lessons in PDF or video format.
